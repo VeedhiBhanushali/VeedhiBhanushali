@@ -4,84 +4,80 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 
 📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
 📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
+<img src="./mnt/data/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="600"/>
 
 ---
 
-## 🔹 **About Me**
-💡 **AI Developer & Data Scientist** | 📊 **ML & Data Analytics Enthusiast** | 🎤 **Tech Leader & Innovator**  
-
-- 🤖 Passionate about **building AI-powered solutions**, from **predictive modeling** to **LLMs & NLP**  
-- 🏆 **Led 360+ students as House President**, achieving **first cultural & sports victories in 6 years**  
-- 📈 Experienced in **data science, machine learning, web development, and full-stack engineering**  
-- 🚀 Building **end-to-end AI applications**, specializing in **responsible AI & real-world impact**  
+## **About Me**
+- Passionate about **AI-powered solutions**, from **predictive analytics** to **NLP & deep learning**  
+- Led **360+ students as House President**, securing **first cultural & sports victories in 6 years**  
+- Built **AI chatbots, machine learning models, and scalable data analytics pipelines**  
+- Strong background in **full-stack development, AI research, and entrepreneurship**  
 
 ---
 
-## 🛠 **Tech Stack & Tools**
-### **Languages**
-- 🐍 Python | ☕ Java | 💻 C++ | 🏗 SQL | 📜 JavaScript | 🌐 HTML & CSS | 📊 R  
+## **Tech Stack & Tools**
+### **Languages**  
+Python | Java | C++ | SQL | JavaScript | HTML & CSS | R  
 
-### **AI/ML Frameworks**
-- 🔬 Scikit-learn | TensorFlow | PyTorch | OpenAI API | Langchain | BentoML | MLflow  
+### **AI/ML Frameworks**  
+Scikit-learn | TensorFlow | PyTorch | OpenAI API | Langchain | BentoML | MLflow  
 
-### **Databases & Web Technologies**
-- 🛠 Django | Flask | FastAPI | Next.js | Firebase | MongoDB | MySQL  
-- 📊 Tableau | Google Analytics | Pandas | NumPy | Kubeflow | CircleCI  
+### **Databases & Web Technologies**  
+Django | Flask | FastAPI | Next.js | Firebase | MongoDB | MySQL  
 
 ---
 
-## 🔥 **Featured Projects**
-### 📌 **1. Student Performance Prediction Model (Upcoming)**
-- Built a **data-driven machine learning model** to predict **student performance** based on multiple factors  
-- Applied **feature engineering, regression models, and classification algorithms**  
-- Integrated **Python, Scikit-learn, and Tableau** for **data visualization & analytics**  
+## **Projects**
+### **1. Student Performance Prediction Model (Upcoming)**
+- Developed a **machine learning model** to predict **student performance trends**  
+- Applied **data preprocessing, feature engineering, and predictive modeling**  
+- Used **Python, Scikit-learn, and Tableau** for **insightful data visualization**  
 🔗 **[GitHub Repository (Coming Soon)](#)**  
 
-### 📌 **2. Google Data Analytics Capstone**
-- Conducted **real-world data analytics project** using **Google Data Analytics Professional Certification**  
-- Performed **data wrangling, cleaning, and visualization** for business insights  
-- Applied **SQL, R, and Tableau** for **exploratory data analysis and reporting**  
+### **2. Google Data Analytics Capstone**
+- Conducted a **data analytics project** based on **Google Data Analytics Professional Certification**  
+- Performed **data cleaning, visualization, and business insights modeling**  
+- Leveraged **SQL, R, and Tableau** for **exploratory data analysis**  
 🔗 **[GitHub Repository](#)**  
 
-### 📌 **3. AI-Powered Sentiment Analysis (Planned)**
+### **3. AI-Powered Sentiment Analysis (Planned)**
 - **NLP-based project** analyzing **social media & customer feedback sentiment**  
-- Implemented **TF-IDF vectorization, LSTM models & deep learning for text classification**  
-- Created an **interactive web dashboard** using **Flask & Plotly** for real-time insights  
+- Used **TF-IDF vectorization, deep learning models, and real-time analytics**  
+- Built an **interactive Flask dashboard for sentiment trends**  
 🔗 **[GitHub Repository (Coming Soon)](#)**  
 
-### 📌 **4. Pantry Tracker**
-- Developed a **full-stack web application** for **tracking and managing pantry inventory**  
-- Used **JavaScript, Firebase, and Next.js** for **seamless UI/UX**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/pantry-tracker)**  
-
-### 📌 **5. Landing Page**
-- Designed and launched a **modern, responsive landing page**  
-- Built with **HTML, CSS, and JavaScript** for **optimized user experience**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/landingpage)**  
-
-### 📌 **6. RecMyProf**
-- Developed a **professor recommendation system** for students based on learning preferences  
-- Implemented **search filters, AI-powered insights, and data analytics**  
-- Used **Next.js, Firebase, and Python** for **scalable web deployment**  
+### **4. RecMyProf – AI Chatbot & Professor Rating System**
+- Developed an **AI-powered chatbot** embedded in **RecMyProf**, assisting students with **professor recommendations**  
+- Integrated **Next.js, Firebase, OpenAI API, Pinecone, and FastAPI**  
+- Built a **search-based system** with **semantic matching and vector embeddings** for improved responses  
 🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/RecMyProf)**  
 
----
+### **5. Pantry Tracker**
+- Created a **web app to manage and track pantry inventory**  
+- Built with **JavaScript, Firebase, and Next.js** for a **seamless UI/UX**  
+🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/pantry-tracker)**  
 
-## 🎯 **Leadership & Impact**
-🏆 **House President (2022-2023)** | Led **360+ students**, securing **historic victories in cultural & sports events**  
-💡 **Tech Mentor & Community Builder** | **Bridging students with AI, data science, and software development opportunities**  
-💼 **Founder of Just Got Baked (2019-2023)** | **Built a successful business, managing 1,000+ orders & $13,000+ revenue**  
-
----
-
-## 📈 **GitHub Stats**
-![Veedhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeedhiBhanushali&show_icons=true&theme=radical)  
+### **6. Landing Page**
+- Designed and launched a **modern, responsive landing page**  
+- Built with **HTML, CSS, and JavaScript**  
+🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/landingpage)**  
 
 ---
 
-## 📬 **Let's Connect!**
+## **Leadership & Achievements**
+- **House President (2022-2023):** Led **360+ students**, achieving **first cultural & sports victories in 6 years**  
+- **Entrepreneur:** Founder of **Just Got Baked**, managing **1,000+ orders & $13,000+ revenue**  
+- **AI & Tech Mentor:** Bridging students with **AI, data science, and software development**  
+- **Asia Pacific Dance Competition (2023):** Secured **3rd place internationally** representing **India**  
+
+---
+
+## **Let's Connect!**
 🌐 **Portfolio:** [VeedhiBhanushali.com](https://VeedhiBhanushali.com)  
 🔗 **LinkedIn:** [linkedin.com/in/veedhibhanushali](https://linkedin.com/in/veedhibhanushali)  
 📧 **Email:** [bhanushaliveedhi@gmail.com](mailto:bhanushaliveedhi@gmail.com)  
 
 ---
+
+
