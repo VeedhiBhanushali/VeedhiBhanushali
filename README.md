@@ -3,7 +3,9 @@
   <tr>
     <td width="60%">     
       
-Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
+Welcome to my GitHub! 
+
+I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
 
 ---
 📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
