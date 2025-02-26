@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 
 📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
 📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
-<img src="./mnt/data/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="600"/>
+<img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="600"/>
 
 ---
 
