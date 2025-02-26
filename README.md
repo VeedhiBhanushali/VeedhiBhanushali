@@ -1,13 +1,18 @@
 # Hi, I'm Veedhi! 👋  
-<div align="right">
-  <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="250"/>
-</div>
-
-<div align="left"> Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
+<table>
+  <tr>
+    <td width="60%">
+Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
 
 📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
 📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
-</div>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" width="250"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## **About Me**
