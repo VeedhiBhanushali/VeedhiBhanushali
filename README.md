@@ -1,10 +1,12 @@
 # Hi, I'm Veedhi! 👋  
+<div align="right">
+  <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="250"/>
+</div>
 
 Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
 
 📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
 📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
-<img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" alt="Veedhi Bhanushali - Achievements Collage" width="600"/>
 
 ---
 
@@ -18,13 +20,31 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 
 ## **Tech Stack & Tools**
 ### **Languages**  
-Python | Java | C++ | SQL | JavaScript | HTML & CSS | R  
+- Python  
+- Java  
+- C++  
+- SQL  
+- JavaScript  
+- HTML & CSS  
+- R  
 
 ### **AI/ML Frameworks**  
-Scikit-learn | TensorFlow | PyTorch | OpenAI API | Langchain | BentoML | MLflow  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+- OpenAI API  
+- Langchain  
+- BentoML  
+- MLflow  
 
 ### **Databases & Web Technologies**  
-Django | Flask | FastAPI | Next.js | Firebase | MongoDB | MySQL  
+- Django  
+- Flask  
+- FastAPI  
+- Next.js  
+- Firebase  
+- MongoDB  
+- MySQL  
 
 ---
 
@@ -76,8 +96,4 @@ Django | Flask | FastAPI | Next.js | Firebase | MongoDB | MySQL
 ## **Let's Connect!**
 🌐 **Portfolio:** [VeedhiBhanushali.com](https://VeedhiBhanushali.com)  
 🔗 **LinkedIn:** [linkedin.com/in/veedhibhanushali](https://linkedin.com/in/veedhibhanushali)  
-📧 **Email:** [bhanushaliveedhi@gmail.com](mailto:bhanushaliveedhi@gmail.com)  
-
----
-
-
+📧 **Email:** [bhanushaliveedhi@gmail.com](mailto:bhanushaliveedhi@gmail.com) 
