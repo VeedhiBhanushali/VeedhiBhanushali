@@ -2,13 +2,15 @@
 <table>
   <tr>
     <td width="60%">     
-      
+-- 
 Welcome to my GitHub! 
 
 I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech.  
-
 ---
-📍 **B.S. Data Science | San Jose State University (Fall 2026)**  
+## **🔗 About Me**
+📍 **B.S. Data Science | San Jose State University (Spring 2027)**  
+- Passionate about **AI-powered solutions**, from **predictive analytics** to **NLP & deep learning**
+-  Strong background in **full-stack development, AI research, and entrepreneurship**  
 📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
     </td>
     <td width="40%">
@@ -16,14 +18,6 @@ I'm passionate about **AI, machine learning, and data-driven solutions**. My wor
     </td>
   </tr>
 </table>
-
----
-
-## **About Me**
-- Passionate about **AI-powered solutions**, from **predictive analytics** to **NLP & deep learning**  
-- Led **360+ students as House President**, securing **first cultural & sports victories in 6 years**  
-- Built **AI chatbots, machine learning models, and scalable data analytics pipelines**  
-- Strong background in **full-stack development, AI research, and entrepreneurship**  
 
 ---
 
