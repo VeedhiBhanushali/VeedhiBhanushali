@@ -63,11 +63,11 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 - Leveraged **SQL, R, and Tableau** for **exploratory data analysis**  
 🔗 **[GitHub Repository](#)**  
 
-### **3. AI-Powered Sentiment Analysis (Planned)**
+### **3. [Amazon Review Sentiment Analysis](https://github.com/VeedhiBhanushali/Amazon-review-sentiment-analysis)**
 - **NLP-based project** analyzing **social media & customer feedback sentiment**  
 - Used **TF-IDF vectorization, deep learning models, and real-time analytics**  
 - Built an **interactive Flask dashboard for sentiment trends**  
-🔗 **[GitHub Repository (Coming Soon)](#)**  
+🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/Amazon-review-sentiment-analysis)**  
 
 ### **4. RecMyProf – AI Chatbot & Professor Rating System**
 - Developed an **AI-powered chatbot** embedded in **RecMyProf**, assisting students with **professor recommendations**  
