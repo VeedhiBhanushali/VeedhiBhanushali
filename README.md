@@ -51,39 +51,37 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 ---
 
 ## **Projects**
-### **1. Student Performance Prediction Model**
+### **1.🔗 [Student Performance Prediction Model](https://github.com/VeedhiBhanushali/student-performance-predictor)**
 - Developed a **machine learning model** to predict **student performance trends**  
 - Applied **data preprocessing, feature engineering, and predictive modeling**  
 - Used **Python, Scikit-learn, and Tableau** for **insightful data visualization**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/student-performance-predictor)**  
 
-### **2. Google Data Analytics Capstone**
+### **2. [Google Data Analytics Capstone](#)**
 - Conducted a **data analytics project** based on **Google Data Analytics Professional Certification**  
 - Performed **data cleaning, visualization, and business insights modeling**  
 - Leveraged **SQL, R, and Tableau** for **exploratory data analysis**  
-🔗 **[GitHub Repository](#)**  
+
 
 ### **3. [Amazon Review Sentiment Analysis](https://github.com/VeedhiBhanushali/Amazon-review-sentiment-analysis)**
 - **NLP-based project** analyzing **social media & customer feedback sentiment**  
 - Used **TF-IDF vectorization, deep learning models, and real-time analytics**  
 - Built an **interactive Flask dashboard for sentiment trends**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/Amazon-review-sentiment-analysis)**  
 
-### **4. RecMyProf – AI Chatbot & Professor Rating System**
+
+### **4. [RecMyProf – AI Chatbot & Professor Rating System](https://github.com/VeedhiBhanushali/RecMyProf)**
 - Developed an **AI-powered chatbot** embedded in **RecMyProf**, assisting students with **professor recommendations**  
 - Integrated **Next.js, Firebase, OpenAI API, Pinecone, and FastAPI**  
 - Built a **search-based system** with **semantic matching and vector embeddings** for improved responses  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/RecMyProf)**  
 
-### **5. Pantry Tracker**
+
+### **5. [AI- Pantry Tracker](https://github.com/VeedhiBhanushali/pantry-tracker)**
 - Created a **web app to manage and track pantry inventory**  
 - Built with **JavaScript, Firebase, and Next.js** for a **seamless UI/UX**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/pantry-tracker)**  
 
-### **6. Landing Page**
+### **6. [Portfolio Website](https://github.com/VeedhiBhanushali/landingpage)**
 - Designed and launched a **modern, responsive landing page**  
 - Built with **HTML, CSS, and JavaScript**  
-🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/landingpage)**  
+
 
 ---
 
