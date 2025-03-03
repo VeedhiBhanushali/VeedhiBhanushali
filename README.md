@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driv
 - Developed a **machine learning model** to predict **student performance trends**  
 - Applied **data preprocessing, feature engineering, and predictive modeling**  
 - Used **Python, Scikit-learn, and Tableau** for **insightful data visualization**  
-🔗 **[GitHub Repository (https://github.com/VeedhiBhanushali/student-performance-predictor)](#)**  
+🔗 **[GitHub Repository](https://github.com/VeedhiBhanushali/student-performance-predictor)**  
 
 ### **2. Google Data Analytics Capstone**
 - Conducted a **data analytics project** based on **Google Data Analytics Professional Certification**  
