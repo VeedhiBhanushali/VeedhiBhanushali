@@ -1,99 +1,16 @@
-# Hi, I'm Veedhi! 👋  
-<table>
-  <tr>
-    <td width="60%">     
+# 💫 About Me:
+🔭 I’m currently working on Bridged and AI-native commerce tools, including wardrobe-aware recommendations, retrieval/ranking systems, and behavioral ML<br><br>👯 I’m looking to collaborate on recommendation systems, shopping intelligence, applied ML, and product engineering<br><br>🤝 I’m looking for help with large-scale ranking pipelines, better retrieval infrastructure, and production ML deployment<br><br>🌱 I’m currently learning personalization systems, agentic workflows, experimentation, and scalable backend architecture<br><br>💬 Ask me about recommender systems, FastAPI, event-driven pipelines, analytics, and building full-stack AI products<br><br>⚡ Fun fact: I care most about AI that improves real user decisions, not just model demos
 
-Welcome to my GitHub! I'm passionate about **AI, machine learning, and data-driven solutions**. My work spans **building intelligent systems, leading impactful projects, and leveraging technology for social good**. Whether it's **developing predictive models, crafting web applications, or analyzing complex datasets**, I strive to create meaningful, real-world impact through tech. If that sounds like something you're interested in, lets connect!
 
----
-## **🔗 About Me**
-📍 **B.S. Data Science | San Jose State University (Spring 2027)**  
-- Passionate about **AI-powered solutions**, from **predictive analytics** to **NLP & deep learning**
--  Strong background in **full-stack development, AI research, and entrepreneurship**  
-📧 **[Email](mailto:bhanushaliveedhi@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** | 🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
-    </td>
-    <td width="40%">
-      <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" width="250"/>
-    </td>
-  </tr>
-</table>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lmaoveeee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veedhibhanushali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanushaliveedhi@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VeedhiBhanushali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VeedhiBhanushali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VeedhiBhanushali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## **Tech Stack & Tools**
-### **Languages**  
-- Python  
-- Java  
-- C++  
-- SQL  
-- JavaScript  
-- HTML & CSS  
-- R  
-
-### **AI/ML Frameworks**  
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- OpenAI API  
-- Langchain  
-- BentoML  
-- MLflow  
-
-### **Databases & Web Technologies**  
-- Django  
-- Flask  
-- FastAPI  
-- Next.js  
-- Firebase  
-- MongoDB  
-- MySQL  
-
----
-
-## **Projects**
-### **1. [Student Performance Prediction Model](https://github.com/VeedhiBhanushali/student-performance-predictor)**
-- Developed a **machine learning model** to predict **student performance trends**  
-- Applied **data preprocessing, feature engineering, and predictive modeling**  
-- Used **Python, Scikit-learn, and Tableau** for **insightful data visualization**  
-
-### **2. [Google Data Analytics Capstone](#)**
-- Conducted a **data analytics project** based on **Google Data Analytics Professional Certification**  
-- Performed **data cleaning, visualization, and business insights modeling**  
-- Leveraged **SQL, R, and Tableau** for **exploratory data analysis**  
-
-
-### **3. [Amazon Review Sentiment Analysis](https://github.com/VeedhiBhanushali/Amazon-review-sentiment-analysis)**
-- **NLP-based project** analyzing **social media & customer feedback sentiment**  
-- Used **TF-IDF vectorization, deep learning models, and real-time analytics**  
-- Built an **interactive Flask dashboard for sentiment trends**  
-
-
-### **4. [RecMyProf – AI Chatbot & Professor Rating System](https://github.com/VeedhiBhanushali/RecMyProf)**
-- Developed an **AI-powered chatbot** embedded in **RecMyProf**, assisting students with **professor recommendations**  
-- Integrated **Next.js, Firebase, OpenAI API, Pinecone, and FastAPI**  
-- Built a **search-based system** with **semantic matching and vector embeddings** for improved responses  
-
-
-### **5. [AI- Pantry Tracker](https://github.com/VeedhiBhanushali/pantry-tracker)**
-- Created a **web app to manage and track pantry inventory**  
-- Built with **JavaScript, Firebase, and Next.js** for a **seamless UI/UX**  
-
-### **6. [Portfolio Website](https://github.com/VeedhiBhanushali/landingpage)**
-- Designed and launched a **modern, responsive landing page**  
-- Built with **HTML, CSS, and JavaScript**  
-
-
----
-
-## **Leadership & Achievements**
-- **House President (2022-2023):** Led **360+ students**, achieving **first cultural & sports victories in 6 years**  
-- **Entrepreneur:** Founder of **Just Got Baked**, managing **1,000+ orders & $13,000+ revenue**  
-- **AI & Tech Mentor:** Bridging students with **AI, data science, and software development**  
-- **Asia Pacific Dance Competition (2023):** Secured **3rd place internationally** representing **India**  
-
----
-
-## **Let's Connect!**
-🌐 **Portfolio:** [VeedhiBhanushali.com](https://VeedhiBhanushali.com)  
-🔗 **LinkedIn:** [linkedin.com/in/veedhibhanushali](https://linkedin.com/in/veedhibhanushali)  
-📧 **Email:** [bhanushaliveedhi@gmail.com](mailto:bhanushaliveedhi@gmail.com) 
+[![](https://komarev.com/ghpvc/?username=VeedhiBhanushali&icon=0&color=0)](https://visitcount.itsvg.in)
