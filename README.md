@@ -1,170 +1,142 @@
 <!--
-    Hi, I'm Veedhi Bhanushali!
-    Thanks for checking out my README source :)
-    Feel free to take inspiration, but please connect with me too!
+    Hi, I'm Veedhi Bhanushali.
+    Thanks for visiting my GitHub.
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4200&pause=500&color=D9BED1&width=700&lines=Hi%2C+I'm+Veedhi+Bhanushali;AI+%26+ML+Builder;Full-Stack+Engineer;Building+Bridged+%26+AI-native+commerce+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4200&pause=500&color=D9BED1&width=700&lines=Hi%2C+I'm+Veedhi+Bhanushali;AI+%2F+ML+Engineer+%26+Product-Minded+Builder;Building+systems+that+help+people+make+better+decisions" alt="Typing SVG" />
 </a>
 
 <br>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
 
-## 💫 About Me
+## About Me
 
-🔭 I’m currently working on **Bridged** and **AI-native commerce tools**, including wardrobe-aware recommendations, retrieval/ranking systems, and behavioral ML  
+I’m a Data Science student at **San Jose State University** focused on building products at the intersection of **AI, machine learning, backend systems, and user-facing software**.
 
-👯 I’m looking to collaborate on **recommendation systems, shopping intelligence, applied ML, and product engineering**  
+What I enjoy most is turning messy real-world problems into systems that are actually useful — whether that means building recommendation workflows, designing reliable backend infrastructure, or using data to improve how people make decisions.
 
-🤝 I’m looking for help with **productionizing ML systems, ranking/retrieval pipelines, and scalable data infrastructure**  
+My work so far has ranged from:
+- **production-facing engineering** in internships and co-ops,
+- to **AI and ML systems** built end-to-end,
+- to **founding and scaling student-led technical initiatives** with real users and client partnerships.
 
-🌱 I’m currently learning **personalization systems, agentic workflows, experimentation, and scalable backend architecture**  
+Right now, I’m especially interested in:
+- recommendation systems
+- retrieval and ranking
+- behavioral modeling
+- experimentation and analytics
+- full-stack AI products
+- decision-support systems in real-world applications
 
-💬 Ask me about **recommender systems, FastAPI, event-driven pipelines, analytics, and building AI products end-to-end**  
-
-⚡ Fun fact: I care most about **AI that improves real user decisions**, not just model demos  
-
-I’m a **Data Science student at San Jose State University (Spring 2027)** building at the intersection of **AI, product, and systems**. I love turning messy real-world behavior into structured systems people can actually use — whether that’s through recommendation engines, analytics pipelines, or end-to-end AI applications.
+I care a lot about building things that are not just technically interesting, but actually **change how people act, choose, and navigate problems**.
 
 <br>
 
-📍 **B.S. Data Science | San Jose State University**  
-📧 **[Email](mailto:bhanushaliveedhi@gmail.com)**  
-🔗 **[LinkedIn](https://linkedin.com/in/veedhibhanushali)**  
-🌐 **[Portfolio](https://VeedhiBhanushali.com)**  
+**B.S. Data Science — San Jose State University (May 2027)**  
+**San Jose, CA**  
+**[Email](mailto:bhanushaliveedhi@gmail.com)** • **[LinkedIn](https://linkedin.com/in/veedhibhanushali)** • **[Portfolio](https://VeedhiBhanushali.com)**
 
 </td>
-    <td width="42%" align="center" valign="top">
-      <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" width="260" style="border-radius: 12px;" alt="Veedhi"/>
+    <td width="40%" align="center" valign="top">
+      <img src="https://github.com/VeedhiBhanushali/VeedhiBhanushali/blob/main/IMG_4612.JPG" width="250" alt="Veedhi"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 What I’m Building
+## What I Work On
 
-### **Bridged**
-An app I’m actively building around connection, utility, and real product experience.
+Most of my projects fall into a few themes:
 
-### **Phia Wardrobes**
-A wardrobe-aware recommendation system for commerce that extends visual similarity into:
-- **Similar Items**
-- **Complete the Look**
-- **Best With Your Wardrobe**
-- **Smart Buy Path**
+### AI / ML Systems
+I like building systems that go beyond notebooks — models that plug into real products, APIs, pipelines, and user decisions.
 
-### **Behavioral ML + Decision Systems**
-I’m especially interested in systems that model:
-- user intent
-- regret / decision quality
-- ranking and retrieval
-- what users should do next, not just what they might click
+### Backend and Infrastructure
+A lot of my strongest work has involved APIs, event-driven systems, microservices, and performance/reliability improvements.
+
+### Product-Focused Engineering
+I think a lot about how technical systems should serve actual users. I’m especially drawn to products where ranking, retrieval, experimentation, and workflow design matter.
+
+### Builder / Founder Energy
+I enjoy starting things from scratch — whether that’s a product, an organization, or a new system inside an existing team.
 
 ---
 
-## 🛠 Main Skills
+## Selected Work
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,fastapi,flask,django,firebase,mongodb,mysql,postgres,supabase,redis,kafka,docker,git,github,figma)](https://skillicons.dev)
+### **Bridge / Bridged**
+A platform I founded to help international students avoid missed deadlines, access opportunities, and stay safe from scams.
 
----
+This project reflects the kind of work I enjoy most: identifying a real problem, building the product and infrastructure around it, and iterating quickly through experiments, analytics, and feature development.
 
-## 📚 Currently Learning
+### **Fraud Detection System**
+A real-time ML system built around event-driven architecture and production-style infrastructure.
 
-[![Learning](https://skillicons.dev/icons?i=aws,gcp,pytorch,tensorflow)](https://skillicons.dev)
+This project pushed me to think beyond model accuracy alone and focus on the full system: latency, throughput, deployment, and reliability.
 
-Currently focused on:
-- recommendation systems
-- retrieval + ranking pipelines
-- personalization
-- experimentation systems
-- production ML infrastructure
+### **RecMyProf**
+An AI-powered recommendation and search system for professor discovery.
 
----
+This project was one of my earlier strong experiences in combining semantic retrieval, embeddings, APIs, and product thinking into a user-facing application.
 
-## 🌟 Featured Projects
-
-### **[Phia-wardrobes](https://github.com/VeedhiBhanushali/Phia-wardrobes)**
-A concept-to-build project for AI-native commerce focused on wardrobe-aware recommendations, post-save retrieval/ranking, and shopping decision support.
-
-**Why it matters:**  
-Turns a saved item into:
-- better alternatives
-- complementary outfit pieces
-- the next best item for a wardrobe
-- the smartest buy path
-
-**Tech / ideas:**  
-Full-stack product design, backend schema + events, retrieval/ranking architecture, recommendation workflows
+### **Behavioral / Decision Analysis Work**
+I’m particularly interested in systems that model human behavior, tradeoffs, regret, and decision quality — not just whether someone clicks, but whether a system helps them make a better choice.
 
 ---
 
-### **[regret-analysis](https://github.com/VeedhiBhanushali/regret-analysis)**
-A behavioral ML / analytics project exploring regret, user decision patterns, and structured insight extraction from messy human behavior.
+## Technical Interests
 
-**Highlights:**  
-- dataset building + filtering
-- modeling and survival-style analysis
-- topic modeling and summarization
-- interpretable outputs around decision outcomes
+### Core Areas
+- Machine Learning
+- Recommendation Systems
+- Retrieval + Ranking
+- Backend Engineering
+- Full-Stack Product Development
+- Experimentation + Analytics
+- Decision-Support Systems
 
----
+### Tools I Use Often
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,flask,spring,postgres,mongodb,redis,kafka,docker,aws,firebase,git,github)](https://skillicons.dev)
 
-### **[fraud-detection-system](https://github.com/VeedhiBhanushali/fraud-detection-system)**
-A production-style ML system for real-time fraud detection using event-driven infrastructure.
-
-**Highlights:**  
-- FastAPI backend
-- Kafka + Redis pipeline
-- ML inference workflow
-- Dockerized architecture
+### Currently Growing In
+[![Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,gcp,supabase)](https://skillicons.dev)
 
 ---
 
-### **[RecMyProf](https://github.com/VeedhiBhanushali/RecMyProf)**
-An AI-powered recommendation/search system to help students discover professors using semantic retrieval and chatbot interaction.
+## Leadership
 
-**Built with:**  
-Next.js, Firebase, OpenAI API, Pinecone, FastAPI
+Outside of building products, I’ve also spent a lot of time building communities and opportunities for other students.
 
----
+I’ve led and scaled student organizations, built partnerships, mentored peers in AI and software, and taken on roles that required ownership, communication, and execution across very different groups of people.
 
-## 🧠 Areas I Care About Most
-
-- **Recommendation systems**
-- **Ranking + retrieval**
-- **Behavioral modeling**
-- **AI product design**
-- **Full-stack ML systems**
-- **Decision intelligence in commerce**
-- **Analytics that actually drive action**
+That side of my experience matters to me because I don’t just like building systems — I also like helping create environments where other people can build too.
 
 ---
 
-## 📈 GitHub Stats
+## A Little More About Me
 
-![](https://github-readme-stats.shion.dev/api?username=VeedhiBhanushali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VeedhiBhanushali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VeedhiBhanushali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+A lot of my work is driven by the same question:
+
+**How do you build systems that help people navigate uncertainty better?**
+
+Sometimes that looks like:
+- surfacing the right recommendation,
+- making infrastructure faster and more reliable,
+- identifying risky behavior,
+- or designing products that reduce confusion and improve decisions.
+
+That’s the kind of problem space I want to keep working in.
 
 ---
 
-## 🏆 Leadership & Achievements
-
-- **Founder, Just Got Baked** — fulfilled **1,000+ orders** and generated **$13,000+ revenue**
-- **House President (2022–2023)** — led **360+ students**, helping secure first cultural & sports wins in 6 years
-- **AI & Tech Mentor** — helping students break into AI, data science, and software development
-- **Asia Pacific Dance Competition (2023)** — **3rd place internationally**, representing India
-
----
-
-## 🌐 Connect With Me
+## Connect
 
 <div>
   <a href="https://linkedin.com/in/veedhibhanushali">
@@ -176,21 +148,13 @@ Next.js, Firebase, OpenAI API, Pinecone, FastAPI
   <a href="https://VeedhiBhanushali.com">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://discord.gg/lmaoveeee">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://github.com/VeedhiBhanushali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
----
+<br>
 
-## 💌 Recruiter / Collaborator?
-
-> [!IMPORTANT]
-> I’m especially interested in opportunities across **AI/ML**, **recommendation systems**, **product engineering/management**, and **applied data systems**.  
-> If you're building products where **ranking, retrieval, behavior, and decision-making** matter, I’d love to connect.
-
----
-
-[![](https://komarev.com/ghpvc/?username=VeedhiBhanushali&icon=0&color=0)](https://visitcount.itsvg.in)
+If you're a recruiter, engineer, founder, or someone building thoughtful products with AI, data, or backend systems, I’d be happy to connect.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
