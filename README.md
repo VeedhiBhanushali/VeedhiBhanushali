@@ -19,7 +19,7 @@
 
 I’m a Data Science student at **San Jose State University** focused on building products at the intersection of **AI, machine learning, backend systems, and user-facing software**.
 
-What I enjoy most is turning messy real-world problems into systems that are actually useful — whether that means building recommendation workflows, designing reliable backend infrastructure, or using data to improve how people make decisions.
+What I enjoy most is turning messy real-world problems into systems that are actually useful. Whether that means building recommendation workflows, designing reliable backend infrastructure, or using data to improve how people make decisions.
 
 My work so far has ranged from:
 - **production-facing engineering** in internships and co-ops,
@@ -56,7 +56,7 @@ I care a lot about building things that are not just technically interesting, bu
 Most of my projects fall into a few themes:
 
 ### AI / ML Systems
-I like building systems that go beyond notebooks — models that plug into real products, APIs, pipelines, and user decisions.
+I like building systems that go beyond notebooks: models that plug into real products, APIs, pipelines, and user decisions.
 
 ### Backend and Infrastructure
 A lot of my strongest work has involved APIs, event-driven systems, microservices, and performance/reliability improvements.
@@ -71,8 +71,8 @@ I enjoy starting things from scratch — whether that’s a product, an organiza
 
 ## Selected Work
 
-### **Bridge / Bridged**
-A platform I founded to help international students avoid missed deadlines, access opportunities, and stay safe from scams.
+### **Bridged**
+A platform I founded to help international students avoid missed deadlines, access opportunities, and grow in the best way possible.
 
 This project reflects the kind of work I enjoy most: identifying a real problem, building the product and infrastructure around it, and iterating quickly through experiments, analytics, and feature development.
 
@@ -87,7 +87,7 @@ An AI-powered recommendation and search system for professor discovery.
 This project was one of my earlier strong experiences in combining semantic retrieval, embeddings, APIs, and product thinking into a user-facing application.
 
 ### **Behavioral / Decision Analysis Work**
-I’m particularly interested in systems that model human behavior, tradeoffs, regret, and decision quality — not just whether someone clicks, but whether a system helps them make a better choice.
+I’m particularly interested in systems that model human behavior, tradeoffs, regret, and decision quality: not just whether someone clicks, but whether a system helps them make a better choice.
 
 ---
 
